@@ -13,7 +13,7 @@ In iOS VLC, we can use `vlc-x-callback://` protocol to open VLC and play a speci
 
 But in Windows and Linux, no such functionality exists.
 
-In addition, PC version of VLC only allows local subtitle files
+In addition, PC version of VLC only supports local subtitle files
 
 Therefore, I decided to write a program that can parse the `vlc-x-callback://` url and open the video directly in mpv (which supports remote subtitle file) when we try to open the link.
 
