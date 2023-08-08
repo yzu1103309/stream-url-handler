@@ -19,6 +19,8 @@ Therefore, I decided to write a program that can parse the `vlc-x-callback://` u
 
 This is useful when you try to create a streaming service that relies on external player to play videos
 
+The program accepts two parameters in the link: `url=<video url>` and `sub=<subtitle url>`. Example in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt)
+
 ## Testing
 
 To test if the program works after installation, you can use the link in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt) to test
