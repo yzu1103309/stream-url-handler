@@ -21,7 +21,7 @@ This is useful when you try to create a streaming service that relies on externa
 
 ## Testing
 
-To test if the program works after installation, you can use the url in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt) to test
+To test if the program works after installation, you can use the link in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt) to test
 
 just simply paste the url to your browser, or type this command in the terminal (cmd):
 
