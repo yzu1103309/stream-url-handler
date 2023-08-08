@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=stream url handler
+Exec=stream-url-handler %U
+Icon=xplayer
+Type=Application
+NoDisplay=true
+StartupNotify=true
+MimeType=x-scheme-handler/vlc-x-callback;
+
