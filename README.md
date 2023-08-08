@@ -3,9 +3,9 @@ Implement iOS vlc-x-callback on Windows and Linux, with subtitle url support, bu
 
 ## Installation
 
-Support Ubuntu 22.04 and Windows (tested)
+Support Ubuntu 22.04 and Windows (both tested)
 
-Download .deb or .exe from release tab and install. (reboot required)
+Download .deb or .exe from release tab and install. (reboot required!)
 
 ## Introduction
 
@@ -21,4 +21,13 @@ and open the video directly in mpv (which supports remote subtitle file) when we
 
 This is useful when you try to create a streaming service that relies on external player to play videos
 
+## Testing
 
+To test if the program works after installation, you can use the url in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt) to test
+
+just simply paste the url to your browser, or type this command in the terminal (cmd):
+
+```
+stream-url-handler <url>
+```
+(replace `url` with the link in the file)
