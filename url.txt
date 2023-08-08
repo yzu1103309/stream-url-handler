@@ -1,0 +1,1 @@
+vlc-x-callback://x-callback-url/stream?url=https://raw.githubusercontent.com/yzu1103309/stream-url-handler/main/video/test.mp4&sub=https://raw.githubusercontent.com/yzu1103309/stream-url-handler/main/video/test.srt
