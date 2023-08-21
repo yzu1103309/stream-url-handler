@@ -13,9 +13,9 @@ Android: Download .apk from release tab and install. Then install [mpv](https://
 
 In iOS VLC, we can use `vlc-x-callback://` protocol to open VLC and play a specific video (with remote subtitle file)
 
-But in Windows and Linux no such functionality exists.
+But in Windows and Linux, no such functionality exists. (Android supports `vlc://`, but doesn't support subs parameter)
 
-In addition, PC version of VLC only supports local subtitle files
+In addition, PC version of VLC only supports local subtitle files (so as Android version)
 
 Therefore, I decided to write a program that can parse the `vlc-x-callback://` url and open the video directly in mpv (which supports remote subtitle file) when we try to open the link.
 
