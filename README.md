@@ -27,7 +27,7 @@ The program only accepts two parameters in the link: `url=<video url>` and `sub=
 
 To test if the program works after installation, you can use the link in [url.txt](https://github.com/yzu1103309/stream-url-handler/blob/main/url.txt) to test
 
-just simply paste the url to your browser (or click [this](vlc-x-callback://x-callback-url/stream?url=https://raw.githubusercontent.com/yzu1103309/stream-url-handler/main/video/test.mp4&sub=https://raw.githubusercontent.com/yzu1103309/stream-url-handler/main/video/test.srt)), or type this command in the terminal (cmd):
+just simply paste the url to your browser, or type this command in the terminal (cmd):
 
 ```
 stream-url-handler <url>
