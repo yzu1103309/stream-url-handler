@@ -3,7 +3,7 @@ Implement iOS vlc-x-callback on Windows, Linux, and Android, with subtitle url s
 
 ## Installation
 
-Support Ubuntu, Windows, and even Android (tested)
+Support Ubuntu (>=20.04), Windows, and even Android (tested)
 
 Windows & Linux: Download .exe or .deb from release tab and install. (reboot required!)
 
